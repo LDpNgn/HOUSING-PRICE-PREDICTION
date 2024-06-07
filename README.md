@@ -63,3 +63,35 @@ The project requires the following libraries and frameworks:
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 If you want to acknowledge any individuals, libraries, or resources that have helped you during the development of your project, you can include them in this section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Contributors 
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/LDpNgn"><img src="https://avatars.githubusercontent.com/u/133579805?s=400&u=094a7c7c461985435fb403d42ac6a1ca78948af7&v=4" width="100px;" alt="Nguyễn Thị Lan Diệp"/><br /><sub><b>Nguyễn Thị Lan Diệp</b></sub></a><br /> Data Science </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/Hummingbirdsthu"><img src="https://avatars.githubusercontent.com/u/117424029?v=4" width="100px;" alt="Huỳnh Lê Minh Thư"/><br /><sub><b>Huỳnh Lê Minh Thư</b></sub></a><br /> Data Science </td>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/pnpu5203"><img src="https://avatars.githubusercontent.com/u/99181024?v=4" width="100px;" alt="Phạm Ngọc Phương Uyên"/><br /><sub><b>Phạm Ngọc Phương Uyên</b></sub></a><br /> Data Science </td>
+    </tr>
+  </tbody>
+</table>
+
+
+
