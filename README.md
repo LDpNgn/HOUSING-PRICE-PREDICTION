@@ -65,23 +65,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 If you want to acknowledge any individuals, libraries, or resources that have helped you during the development of your project, you can include them in this section.
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## Contributors 
 <table>
   <tbody>
